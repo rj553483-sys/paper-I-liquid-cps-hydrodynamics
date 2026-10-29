@@ -1,0 +1,34 @@
+{
+    "pristine_0_dpa": {
+        "dpa": 0.0,
+        "pore_radius_um": 25.0,
+        "capillary_pressure_kPa": 27.05,
+        "permeability_1e11_m2": 1.25,
+        "dryout_heat_flux_MW_m2": 41.5,
+        "safety_factor": 2.77
+    },
+    "replacement_limit_9_8_dpa": {
+        "dpa": 9.8,
+        "pore_radius_um": 17.54,
+        "capillary_pressure_kPa": 38.55,
+        "permeability_1e11_m2": 0.6,
+        "dryout_heat_flux_MW_m2": 22.44,
+        "safety_factor": 1.5
+    },
+    "dryout_parity_limit_13_0_dpa": {
+        "dpa": 13.0,
+        "pore_radius_um": 16.49,
+        "capillary_pressure_kPa": 41.0,
+        "permeability_1e11_m2": 0.5,
+        "dryout_heat_flux_MW_m2": 18.41,
+        "safety_factor": 1.23
+    },
+    "extreme_damage_20_0_dpa": {
+        "dpa": 20.0,
+        "pore_radius_um": 15.2,
+        "capillary_pressure_kPa": 44.48,
+        "permeability_1e11_m2": 0.38,
+        "dryout_heat_flux_MW_m2": 11.87,
+        "safety_factor": 0.79
+    }
+}
